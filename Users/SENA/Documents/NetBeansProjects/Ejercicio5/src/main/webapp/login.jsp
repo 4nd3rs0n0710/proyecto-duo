@@ -9,10 +9,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Ingreso de Usuario</title>
+        <title>Ingreso de Usuario1</title>
     </head>
     <body>
-        <div>Ingreso Usuario</div>
+        <div>Ingreso Usuario1</div>
         <form name="Ingreso" action="ValidarUsuario" method="POST">
             <br><br>
             Usuario:<input type="text" name="usuario" value="" />
